@@ -59,6 +59,20 @@ SELECT ename, job, sal, sal*12 AS annsal
  FROM emp
  WHERE ename LIKE '__RD' ; --J%, %ER, %E%, __RD(동일한 글자수에 ~로 끝나는 경우)
  
+ --NULL 함수명 NVL( ) 나중에 TO BE CONTINUED..
+ SELECT ename, job, sal, comm
+  FROM emp
+   WHERE comm IS NOT NULL ;
+ 
+ --집합 UNION 
+SELECT empno, ename, job FROM emp
+WHERE comm IS NOT NULL
+UNION ALL
+SELECT deptno, dname, loc FROM dept ;
+
+
+ 
+ 
  
  
 
