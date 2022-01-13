@@ -12,6 +12,7 @@ SELECT LOWER (EMAIL) email  FROM membertbl;
                ,price
  FROM bookstbl ORDER BY price DESC;    
  
+
  
  
  
