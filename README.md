@@ -22,7 +22,7 @@ Oracle 학습 리포지토리
 - SELECT 문 복습
 
 ### 5일차 학습
-- 어제 이어서 학습
+- 4일차 이어서 학습
 - 함수  
  - IN 절
  - BETWEEN AND 
@@ -40,3 +40,6 @@ Oracle 학습 리포지토리
  - MOD(c, n) n으로 나눈 나머지 
  - LAST_DAY, NEXT_DAY
  - EXTRACT 날짜에서 년, 월, 일 원하는것만 추출
+
+### 6일차 
+- 5일차 이어서 학습
