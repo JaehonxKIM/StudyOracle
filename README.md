@@ -43,3 +43,14 @@ Oracle 학습 리포지토리
 
 ### 6일차 
 - 5일차 이어서 학습
+- 팀 문제 만들기
+- NULL값 처리
+- HAVING함수 간단히
+
+### 7일차 
+- 조인 함수 INNER JOIN , OUTER JOIN
+ - 일반방식
+ - ANSI 국제표준방식 
+- IN 함수 복습
+- Ans_THE_Ques 
+
