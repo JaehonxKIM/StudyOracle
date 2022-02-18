@@ -54,3 +54,10 @@ Oracle 학습 리포지토리
 - IN 함수 복습
 - Ans_THE_Ques 
 
+### 8일차
+- OUTER JOIN 함수 
+- HAVING 절
+- 서브쿼리
+- 문제 풀이
+
+
